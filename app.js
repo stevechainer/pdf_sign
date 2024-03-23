@@ -16,9 +16,7 @@ var fs = require("fs");
 
 // The authentication key (API Key).
 // Get your own by registering at https://app.pdf.co
-const API_KEY =
-  "steve980102@gmail.com_Ve277Tly86A6rPU8zrC108Tddbd44f1d5IoUqHbjJnVBx0pW59us45Lvr36B5f44";
-
+const API_KEY = "";
 // Direct URL of source PDF file.
 // You can also upload your own file into PDF.co and use it as url. Check "Upload File" samples for code snippets: https://github.com/bytescout/pdf-co-api-samples/tree/master/File%20Upload/
 const SourceFileUrl =
