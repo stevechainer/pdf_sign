@@ -8,6 +8,9 @@ baseURL = api.pdf.co
 
 {{baseURL}}`/v1/pdf/edit/replace-text-with-image`
 
+## GET API KEY FROM api.pdf.co
+const API_KEY = "API_KEY";
+
 ## How to use
 
 ```js
