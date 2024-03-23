@@ -3,8 +3,7 @@ const fs = require("fs");
 
 // Replace with your PDF.co API key
 
-const apiKey =
-  "steve980102@gmail.com_Ve277Tly86A6rPU8zrC108Tddbd44f1d5IoUqHbjJnVBx0pW59us45Lvr36B5f44";
+const apiKey = "";
 // PDF.co endpoint for editing PDF
 const endpoint = "https://api.pdf.co/v1/pdf/edit/add";
 
