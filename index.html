@@ -1,0 +1,11 @@
+<canvas id="canvas" width="640" height="360"></canvas>
+
+function convertCanvasToImage() {
+  let canvas = document.getElementById("canvas");
+  let image = new Image();
+  image.src = canvas.toDataURL();
+  return image; 
+}
+
+let pnGImage = convertCanvasToImage();
+document.appendChild(pnGImage);
